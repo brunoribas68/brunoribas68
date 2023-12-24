@@ -1,10 +1,14 @@
+<div style="display: inline_block">
+  
 ### Hi I am Bruno Ribas, The Web Developer 🦸‍♂️ 
+<!--START_SECTION:waka-->
+  SHOW_LANGUAGE 
+<!--END_SECTION:waka-->
+  <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+</div>
+<br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoribas68&layout=compact)
-
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
-
-## Techs
+### Techs
 <div style="display: inline_block"><br>
   <img align="center" alt="Bruno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Bruno-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
