@@ -1,4 +1,4 @@
-### Hi I am Bruno Ribas, The Web Developer ![role-model](https://github.com/brunoribas68/brunoribas68/assets/25181506/eb4215fd-43ca-4025-8a7f-4fb0bceb8fbe)
+### Hi I am Bruno Ribas, The Web Developer 🦸‍♂️ 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoribas68&layout=compact)
 
