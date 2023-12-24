@@ -1,6 +1,9 @@
-### Hi there 👋
+### Hi I am Bruno Ribas, The Web Developer ![role-model](https://github.com/brunoribas68/brunoribas68/assets/25181506/eb4215fd-43ca-4025-8a7f-4fb0bceb8fbe)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoribas68&layout=compact)
 
+
+## Techs
 <div style="display: inline_block"><br>
   <img align="center" alt="Bruno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Bruno-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
