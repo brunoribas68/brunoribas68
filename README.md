@@ -37,7 +37,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%20min-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-201-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-208-blue)
 
 **🐱 My GitHub Data** 
 
@@ -110,5 +110,5 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/brunoribas68/brunoribas68/main/assets/bar_graph.png)
 
 
- Last Updated on 26/12/2023 18:36:23 UTC
+ Last Updated on 27/12/2023 18:36:16 UTC
 <!--END_SECTION:waka-->
