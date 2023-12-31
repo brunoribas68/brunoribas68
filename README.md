@@ -78,19 +78,16 @@ Sunday                   17 commits          ██████░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Python                   0 secs              ███████████████████░░░░░░   74.03 % 
-JavaScript               0 secs              ██████░░░░░░░░░░░░░░░░░░░   25.97 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PyCharm                  0 secs              ███████████████████░░░░░░   74.03 % 
-WebStorm                 0 secs              ██████░░░░░░░░░░░░░░░░░░░   25.97 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-leitura_lidar            0 secs              ███████████████████░░░░░░   74.03 % 
-bruno                    0 secs              ██████░░░░░░░░░░░░░░░░░░░   25.97 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in PHP** 
@@ -110,5 +107,5 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/brunoribas68/brunoribas68/main/assets/bar_graph.png)
 
 
- Last Updated on 30/12/2023 18:36:34 UTC
+ Last Updated on 31/12/2023 18:36:30 UTC
 <!--END_SECTION:waka-->
