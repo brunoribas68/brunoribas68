@@ -37,7 +37,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%20min-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
@@ -107,5 +107,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/brunoribas68/brunoribas68/main/assets/bar_graph.png)
 
 
- Last Updated on 09/01/2024 18:36:35 UTC
+ Last Updated on 10/01/2024 18:37:51 UTC
 <!--END_SECTION:waka-->
