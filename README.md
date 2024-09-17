@@ -1,20 +1,22 @@
 <div style="display: inline_block">
-
 <p >
    
-  ### Hi I am Bruno Ribas, The Web Developer 🦸‍♂️ 
+  ###👋 Hi, I'm Bruno Ribas, a Full Stack Web Developer passionate about building robust and scalable applications. 
   <br>
   <br>
-  🔬 I'm currently studying Artificial Inteligence in Univercidade Federal Do Parana
+  🎓I hold a degree in Information Security from Universidade Positivo and am currently pursuing a postgraduate degree in Artificial Intelligence at Universidade Federal do Paraná.
   <br>
   🎓 I graduated from Universidade Positivo, Security of Information
   <br>
-  💻 I love solve complex problems
+  💻 Experienced in PHP, JavaScript, HTML, CSS, and database management. I enjoy working on both front-end and back-end development.
   <br>
-  📚 I’m currently learning Pytorch and improve my Nodejs skills
+  🔧 Constantly improving my skills in modern web technologies and frameworks like Node.js, Symfony, and Laravel, with a focus on creating efficient and secure code.
   <br>
-  📫 How to reach me: <a href="mailto: brunoribas68@gmail.com">brunoribas68@gmail.com</a>
-</p>
+  🧠 I’m also exploring big data tools such as Hadoop, PySpark, and learning about AI applications in TensorFlow and Scikit-Learn.
+  <br>
+  🚀 I love solving complex problems and staying updated on the latest tech trends.
+  <br>
+  📫 Reach me at brunoribas68@gmail.com
   <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 </div>
 <br>
