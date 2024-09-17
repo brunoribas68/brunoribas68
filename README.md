@@ -1,7 +1,7 @@
 <div style="display: inline_block">
 <p >
    
-  ###👋 Hi, I'm Bruno Ribas, a Full Stack Web Developer passionate about building robust and scalable applications. 
+  ### 👋 Hi, I'm Bruno Ribas, a Full Stack Web Developer passionate about building robust and scalable applications. 
   <br>
   <br>
   🎓I hold a degree in Information Security from Universidade Positivo and am currently pursuing a postgraduate degree in Artificial Intelligence at Universidade Federal do Paraná.
