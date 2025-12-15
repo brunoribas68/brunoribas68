@@ -12,8 +12,17 @@ I’m a Senior Software Engineer with 8+ years of experience building secure, sc
 - CI/CD pipelines, containerization, and production stability
 - Secure software development aligned with compliance and best practices
 
+### 🧰 Core Technical Stack
+- **Backend:** PHP (Laravel), Python (FastAPI, Flask), Node.js  
+- **Frontend:** Vue.js, JavaScript, HTML, CSS  
+- **AI & Data:** LLMs, RAG pipelines, LangChain, Pandas  
+- **DevOps:** Docker, CI/CD, Linux  
+- **Databases:** PostgreSQL, MySQL, MongoDB, Elasticsearch
+
+
 🧠 My technical interests focus on **real-world AI applications**, backend architecture, and automation — always with an emphasis on reliability, security, and maintainability.
 
 🌍 I am currently preparing for relocation to Canada and actively engaging with the Canadian tech ecosystem.
 
-📫 Contact: **brunoribas68@gmail.com**
+📫 Contact: brunoribas68@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/bruno-moreira-ribas-1719508/
